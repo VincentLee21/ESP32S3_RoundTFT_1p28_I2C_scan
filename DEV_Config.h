@@ -8,7 +8,7 @@
 #include <Wire.h>
 #include "DEV_Debug.h"
 
-#define I2C_PORT i2c2
+// #define I2C_PORT i2c2
 
 #define DEV_SDA0_PIN        6
 #define DEV_SCL0_PIN        7

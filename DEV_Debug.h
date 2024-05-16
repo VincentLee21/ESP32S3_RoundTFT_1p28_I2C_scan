@@ -22,4 +22,6 @@
 
 #define Info(__info,...) printf("Info : " __info,##__VA_ARGS__)
 
+#define Print(__info,...) printf(__info,##__VA_ARGS__)
+
 #endif
